@@ -1,6 +1,5 @@
 # GastroGraph 🍽️📈
-
-![GastroGraph Logo](./logo.png)
+<img src="./logo.png" width="80" height="79">
 
 Bienvenido a **GastroGraph**, tu nuevo sistema de recomendaciones de restaurantes basado en grafos. Utilizando la potencia de Java, JavaFX, Neo4j y AuraDB, GastroGraph te proporciona recomendaciones personalizadas para ayudarte a descubrir nuevos lugares para comer.
 
@@ -22,10 +21,10 @@ Para ejecutar GastroGraph, necesitarás:
 
 ## Cómo empezar 🚀
 
-1. Clona este repositorio o descarga el archivo GastroGraph.jar.
+1. Clona este repositorio o descarga el archivo `GastroGraph.jar`.
 2. Asegúrate de tener instalado Java en tu sistema operativo.
 3. Configura tu base de datos Neo4j y AuraDB siguiendo las instrucciones de su respectivo sitio web.
-4. Ejecuta `GastroGraph.java` para iniciar la aplicación.
+4. Ejecuta `GastroGraph.jar` para iniciar la aplicación.
 
 ## Contribuir 🤝
 
